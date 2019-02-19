@@ -10,3 +10,34 @@ body{
 h3{
   color:#CF5D06;
 }
+img {
+  display: none;
+}
+
+
+p:hover {
+text-decoration: underline;
+}
+#initially-showing {
+     display: none;
+}
+.clickable {
+   cursor: pointer;
+   color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.green-background {
+      background-color: green;
+}
+
+.yellow-background {
+        background-color: yellow;
+}
+
+.red-background {
+        background-color: red;
+}
